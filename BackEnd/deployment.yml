@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: akhil626/seproject:v1
+        image: akhil626/myse:v1
         ports:
         - containerPort: 4000
 
